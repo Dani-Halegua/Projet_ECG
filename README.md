@@ -1,2 +1,2 @@
-Projet de Machine Learning sur les ECG de Dani Halegua, Luca Champesting et Idyano Leroy
+Projet de Machine Learning/Image sur les ECG de Dani Halegua, Luca Champesting et Idyano Leroy
 
